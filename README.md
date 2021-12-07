@@ -1,11 +1,15 @@
 # Currency-converter-in-python
 
 with open('currency converter.txt') as f:
-    lines = f.readlines()
+   
+   
+   lines = f.readlines()
 
 
 
 currencyDict = {}
+
+
 for line in lines:
    
    
